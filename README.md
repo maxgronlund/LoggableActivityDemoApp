@@ -1,2 +1,2 @@
-# LoggableActivityDemoApp
-This project has been moved
+# LoggableActivityDemoApp has moved to
+https://github.com/LoggableActivity/LoggableActivityDemoApp
